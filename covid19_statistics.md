@@ -1,4 +1,3 @@
-[Running] python -u "/Users/yeemonoo/Desktop/covid19-lab/covid19_statistics.py"
 ### Korean Population by Region
 * Total population: 51669716
 
@@ -45,5 +44,4 @@
 | Jeju | 5 | 0.3 | 7.4 |
 | Sejong | 4 | 0.2 | 10.9 |
 
-[Done] exited with code=0 in 0.069 seconds
 
